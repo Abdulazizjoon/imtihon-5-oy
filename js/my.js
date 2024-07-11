@@ -7,13 +7,8 @@ function createCard(product) {
                             <i class="fa-solid fa-x"> </i>
                             <span>${product.category}</span>
                         </p>
-                        <p class="pp">
-                            SALE
-                        </p>
-                        <div class="podarka">
-                            <img src="./img/gift 1.svg" alt="">
-                            <p>Подарок</p>
-                        </div>
+                        
+                        
                     </div>
                     <div class="k">
                         <div class="reyting">
